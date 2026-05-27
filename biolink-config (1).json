@@ -1,0 +1,223 @@
+{
+  "profile": {
+    "photo": "https://github.com/Gy-Imports/Gy-imports.github.io/blob/main/pf.png?raw=true",
+    "name": "Gy Imports",
+    "title": "Os melhores importados, você encontra aqui!",
+    "bio": "",
+    "location": "São Paulo, Brasil",
+    "align": "center",
+    "photoSize": 110,
+    "photoRound": true,
+    "photoBorder": true
+  },
+  "style": {
+    "bgType": "gradient",
+    "bg1": "#fecdfa",
+    "bg2": "#fbc8fe",
+    "bg3": "#ffb8f0",
+    "bgImage": "",
+    "gradientDir": "135deg",
+    "textColor": "#1f1e1e",
+    "textColor2": "#463e3e",
+    "font": "Poppins",
+    "cardBlur": true,
+    "cardOpacity": 0.15,
+    "animation": "fadeSlide"
+  },
+  "blocks": [
+    {
+      "id": "1779853640763",
+      "type": "text",
+      "data": {
+        "text": "Perfumes importados e árabes com alta fixação, fragrâncias marcantes e preço acessível. Na Gy Imports Parfumes você encontra perfumes selecionados para quem gosta de presença e qualidade sem pagar caro. • Perfumes masculinos e femininos • Alta durabilidade • Fragrâncias sofisticadas • Enviamos para todo Brasil Acesse o catálogo e escolha o seu.",
+        "sub": "",
+        "size": "sm",
+        "weight": "500",
+        "color": "#1f1e1e",
+        "align": "center"
+      }
+    },
+    {
+      "id": "1779853812641",
+      "type": "button",
+      "data": {
+        "label": "Ver Catálogo Completo.",
+        "url": "https://gy-parfumes.discloud.app/",
+        "icon": "fa-solid fa-globe",
+        "bg": "#d99bc6",
+        "color": "#231f22",
+        "style": "filled",
+        "radius": 50,
+        "shadow": "none",
+        "width": "full",
+        "newtab": true
+      }
+    },
+    {
+      "id": "1779855735463",
+      "type": "separator",
+      "data": {
+        "sepType": "line",
+        "text": "",
+        "color": "#40072d",
+        "space": 16
+      }
+    },
+    {
+      "id": "1779853960052",
+      "type": "catalog",
+      "data": {
+        "title": "Catalogo via PIX.",
+        "cardColor": "#d99bc6",
+        "textColor": "#2a2828",
+        "cols": "2",
+        "items": [
+          {
+            "img": "https://gy-parfumes.discloud.app/static/uploads/dadcb566-4ab4-4c20-af1f-fe5f30863d4c.jpg",
+            "name": "EXCLUSIVE ROYAL AMBER",
+            "price": "R$ 418,00",
+            "link": "https://gy-parfumes.discloud.app/produto/fecdbfe3-f3dc-4a50-bae9-1ea2639d0fe8"
+          },
+          {
+            "img": "https://gy-parfumes.discloud.app/static/uploads/9ce85f20-e6d5-4f41-a0bf-3b5468f8b22d.jpg",
+            "name": "ATHEERI by Lattafa",
+            "price": "R$ 457,90",
+            "link": "https://gy-parfumes.discloud.app/produto/c2406fc5-6b37-4a98-a5f3-d48ccd2d7b30"
+          },
+          {
+            "img": "https://gy-parfumes.discloud.app/static/uploads/db72b91a-5503-467d-9ae8-2082c90be47d.jpg",
+            "name": "FAKHAR ROSE by Lattafa",
+            "price": "R$ 262,20",
+            "link": "https://gy-parfumes.discloud.app/produto/288aeb68-d8eb-407b-918b-ce3bb4beede5"
+          },
+          {
+            "img": "https://gy-parfumes.discloud.app/static/uploads/df90df52-a37a-4249-a51c-80b05d26d666.jpg",
+            "name": "YARA by Lattafa",
+            "price": "R$ 199,50",
+            "link": "https://gy-parfumes.discloud.app/produto/105429e4-5204-43f9-b9ee-68511a4b56d5"
+          },
+          {
+            "img": "https://gy-parfumes.discloud.app/static/uploads/053f77c6-4b59-4292-8d0a-d3f83613d097.jpg",
+            "name": "YARA CANDY by Lattafa",
+            "price": "R$ 181,45",
+            "link": "https://gy-parfumes.discloud.app/produto/9f4ab52b-e584-4b62-9f49-bbb2700f8c62"
+          },
+          {
+            "img": "https://gy-parfumes.discloud.app/static/uploads/0ba4e447-899e-4bf8-ab57-1661546c5614.jpg",
+            "name": "DALAL by Lattafa",
+            "price": "R$ 314,45",
+            "link": "https://gy-parfumes.discloud.app/produto/3489d6d0-74a8-44ac-b90f-0d64adbc5fd9"
+          },
+          {
+            "img": "https://gy-parfumes.discloud.app/static/uploads/bcb843cd-286a-4173-a69e-769b9e64bf91.jpg",
+            "name": "DURRAT AL AROOS LOVE",
+            "price": "R$ 249,00",
+            "link": "https://gy-parfumes.discloud.app/produto/3e051337-2110-4c9b-83a8-03ec635c352c"
+          },
+          {
+            "img": "https://gy-parfumes.discloud.app/static/uploads/8c82a606-a4e1-4259-acc2-a0f50376046c.jpg",
+            "name": "ASAD by Lattafa",
+            "price": "R$ 225,15",
+            "link": "https://gy-parfumes.discloud.app/produto/fae89cd7-4dbc-4c73-854c-0f5aa11f84c5"
+          },
+          {
+            "img": "https://gy-parfumes.discloud.app/static/uploads/32fe4df1-b494-4921-b405-697af1e8193d.jpg",
+            "name": "MUSAMAM by Lattafa",
+            "price": "R$ 222,30",
+            "link": "https://gy-parfumes.discloud.app/produto/ff8d3572-25a0-4f07-97e6-88d722b23e77"
+          },
+          {
+            "img": "https://gy-parfumes.discloud.app/static/uploads/10dce8d8-ed75-4596-a2d9-e0455870a407.jpg",
+            "name": "CLUB DE NUIT INTENSE MAN",
+            "price": "R$ 254,60",
+            "link": "https://gy-parfumes.discloud.app/produto/75fe0721-0299-4edd-bb0b-4f9151148da1"
+          },
+          {
+            "img": "https://gy-parfumes.discloud.app/static/uploads/ff36dc46-a3d1-4118-ba8e-5eaa2a28a236.jpg",
+            "name": "AFEEF by Lattafa",
+            "price": "R$ 476,90",
+            "link": "https://gy-parfumes.discloud.app/produto/69381f9d-4a07-41e6-ad9a-21d1d1303460"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1779853960053",
+      "type": "catalog",
+      "data": {
+        "title": "Catalogo via Cartão 6x.",
+        "cardColor": "#c78ab3",
+        "textColor": "#2a2828",
+        "cols": "2",
+        "items": [
+          {
+            "img": "https://gy-parfumes.discloud.app/static/uploads/dadcb566-4ab4-4c20-af1f-fe5f30863d4c.jpg",
+            "name": "EXCLUSIVE ROYAL AMBER",
+            "price": "6x de R$ 69,67",
+            "link": "https://gy-parfumes.discloud.app/produto/fecdbfe3-f3dc-4a50-bae9-1ea2639d0fe8"
+          },
+          {
+            "img": "https://gy-parfumes.discloud.app/static/uploads/9ce85f20-e6d5-4f41-a0bf-3b5468f8b22d.jpg",
+            "name": "ATHEERI by Lattafa",
+            "price": "6x de R$ 76,32",
+            "link": "https://gy-parfumes.discloud.app/produto/c2406fc5-6b37-4a98-a5f3-d48ccd2d7b30"
+          },
+          {
+            "img": "https://gy-parfumes.discloud.app/static/uploads/db72b91a-5503-467d-9ae8-2082c90be47d.jpg",
+            "name": "FAKHAR ROSE by Lattafa",
+            "price": "6x de R$ 43,70",
+            "link": "https://gy-parfumes.discloud.app/produto/288aeb68-d8eb-407b-918b-ce3bb4beede5"
+          },
+          {
+            "img": "https://gy-parfumes.discloud.app/static/uploads/df90df52-a37a-4249-a51c-80b05d26d666.jpg",
+            "name": "YARA by Lattafa",
+            "price": "6x de R$ 33,25",
+            "link": "https://gy-parfumes.discloud.app/produto/105429e4-5204-43f9-b9ee-68511a4b56d5"
+          },
+          {
+            "img": "https://gy-parfumes.discloud.app/static/uploads/053f77c6-4b59-4292-8d0a-d3f83613d097.jpg",
+            "name": "YARA CANDY by Lattafa",
+            "price": "6x de R$ 30,24",
+            "link": "https://gy-parfumes.discloud.app/produto/9f4ab52b-e584-4b62-9f49-bbb2700f8c62"
+          },
+          {
+            "img": "https://gy-parfumes.discloud.app/static/uploads/0ba4e447-899e-4bf8-ab57-1661546c5614.jpg",
+            "name": "DALAL by Lattafa",
+            "price": "6x de R$ 52,41",
+            "link": "https://gy-parfumes.discloud.app/produto/3489d6d0-74a8-44ac-b90f-0d64adbc5fd9"
+          },
+          {
+            "img": "https://gy-parfumes.discloud.app/static/uploads/bcb843cd-286a-4173-a69e-769b9e64bf91.jpg",
+            "name": "DURRAT AL AROOS LOVE",
+            "price": "6x de R$ 41,50",
+            "link": "https://gy-parfumes.discloud.app/produto/3e051337-2110-4c9b-83a8-03ec635c352c"
+          },
+          {
+            "img": "https://gy-parfumes.discloud.app/static/uploads/8c82a606-a4e1-4259-acc2-a0f50376046c.jpg",
+            "name": "ASAD by Lattafa",
+            "price": "6x de R$ 37,53",
+            "link": "https://gy-parfumes.discloud.app/produto/fae89cd7-4dbc-4c73-854c-0f5aa11f84c5"
+          },
+          {
+            "img": "https://gy-parfumes.discloud.app/static/uploads/32fe4df1-b494-4921-b405-697af1e8193d.jpg",
+            "name": "MUSAMAM by Lattafa",
+            "price": "6x de R$ 37,05",
+            "link": "https://gy-parfumes.discloud.app/produto/ff8d3572-25a0-4f07-97e6-88d722b23e77"
+          },
+          {
+            "img": "https://gy-parfumes.discloud.app/static/uploads/10dce8d8-ed75-4596-a2d9-e0455870a407.jpg",
+            "name": "CLUB DE NUIT INTENSE MAN",
+            "price": "6x de R$ 42,43",
+            "link": "https://gy-parfumes.discloud.app/produto/75fe0721-0299-4edd-bb0b-4f9151148da1"
+          },
+          {
+            "img": "https://gy-parfumes.discloud.app/static/uploads/ff36dc46-a3d1-4118-ba8e-5eaa2a28a236.jpg",
+            "name": "AFEEF by Lattafa",
+            "price": "6x de R$ 79,48",
+            "link": "https://gy-parfumes.discloud.app/produto/69381f9d-4a07-41e6-ad9a-21d1d1303460"
+          }
+        ]
+      }
+    }
+  ]
+}
